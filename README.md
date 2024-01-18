@@ -34,5 +34,5 @@
   <a href="https://www.linkedin.com/in/lucas-fasael-97613a238/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  ![Snake animation](https://github.com/lucasfasael/lucasfasael/blob/output/github-contribution-grid-snake.svg)
+  <img align="center" alt="Pokeball" height="30" width="40" src="https://fc03.deviantart.net/fs70/f/2013/019/b/6/pokeball_by_zel_duh-d5s04qj.gif">
 </div>
