@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Fasael
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=930d16&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f30301&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Lucas+Fasael+;Sou+Estudante+de+A.+e+Desenvolvimento+de+Sistemas+;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 <div align="center">  
@@ -22,7 +22,7 @@
    
 
     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=930d16&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f30301&height=120&section=footer"/>
 </div>
 <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
