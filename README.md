@@ -18,10 +18,6 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    
-    
-   
-
-    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f30301&height=120&section=footer"/>
 </div>
 <div align="center">
