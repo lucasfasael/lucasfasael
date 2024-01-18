@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Lucas+Fasael+;Sou+Estudante+de+A.+e+Desenvolvimento+de+Sistemas+;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasfasael&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Meu Redme" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfasael&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=lucasfasael&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Meu Redme" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfasael&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <h1 align="center">Tecnologias que eu uso no meu dia</h1>
 <div  align="center"> 
@@ -18,7 +18,7 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f30301&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f30301&height=110&section=footer"/>
 </div>
 <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
