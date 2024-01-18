@@ -25,7 +25,7 @@
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f00d1&height=120&section=footer"/>
 </div>
-<div style="margin-botton='20px'" align="center">
+<div style="margin-bottom: 20;" align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
