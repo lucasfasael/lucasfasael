@@ -34,5 +34,5 @@
   <a href="https://www.linkedin.com/in/lucas-fasael-97613a238/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  <img align="center" alt="Pokeball" height="30" width="40" src="https://fc03.deviantart.net/fs70/f/2013/019/b/6/pokeball_by_zel_duh-d5s04qj.gif">
+  <img align="center" alt="Pokeball" width="40" src="https://fc03.deviantart.net/fs70/f/2013/019/b/6/pokeball_by_zel_duh-d5s04qj.gif">
 </div>
