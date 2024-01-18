@@ -25,7 +25,7 @@
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f00d1&height=120&section=footer"/>
 </div>
-<div style="margin-bottom: 20px;" align="center">
+<div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/lucas-fasael-97613a238/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div align="center">
+<div style="margin-top: 20;" align="center">
   <img align="center" alt="Pokeball" width="40" src="https://fc03.deviantart.net/fs70/f/2013/019/b/6/pokeball_by_zel_duh-d5s04qj.gif">
 </div>
 
