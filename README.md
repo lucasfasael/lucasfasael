@@ -2,6 +2,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0011&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Lucas+Fasael+;Sou+Aluno+de+A.+e+Desenvolvimento+de+Sistemas+;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<div align="center">  
+  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=lucasfasael&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Meu Redme" /> 
   <img width="41%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfasael&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <h1 align="center">Tecnologias que eu uso no meu dia</h1>
@@ -29,4 +32,3 @@
 <div style="margin-top: 20px;" align="center">
   <img align="center" alt="Pokeball" width="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/029b8bd9-cb5a-41e4-9c7e-ee516face9bb/dayo3ow-7ac86c31-8b2b-4810-89f2-e6134caf1f2d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyOWI4YmQ5LWNiNWEtNDFlNC05YzdlLWVlNTE2ZmFjZTliYlwvZGF5bzNvdy03YWM4NmMzMS04YjJiLTQ4MTAtODlmMi1lNjEzNGNhZjFmMmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ooubhxjHp9PIMhVxvCFHziI6pxDAS8glXPWenUeomWs">
 </div>
-
