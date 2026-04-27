@@ -7,7 +7,7 @@
 
 </div>
 <h1 align="center">Tecnologias que eu uso no meu dia</h1>
-<div  align="center"> 
+<div display="flex" justify-content="center" align-itens="center"  align="center"> 
     <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
