@@ -6,32 +6,34 @@
 <div align="center">  
 
 </div>
-<h1 align="center">Tecnologias que eu uso no meu dia</h1>
+<h1 align="center">Minha Stack de Tecnologias</h1>
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="30" width="40"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" height="30" width="40"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" width="40"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html-icon" height="30" width="40"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css-icon" height="30" width="40"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js-icon" height="30" width="40"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="45"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="45"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="45"></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" width="45"></td>
   </tr>
   <tr>
-    <td align="center">Flutter</td>
-    <td align="center">Spring</td>
-    <td align="center">Java</td>
-    <td align="center">Python</td>
-    <td align="center">HTML5</td>
-    <td align="center">CSS3</td>
-    <td align="center">JS</td>
-    <td align="center">React</td>
+    <td align="center"><b>Flutter</b></td>
+    <td align="center"><b>React</b></td>
+    <td align="center"><b>React Native</b></td>
+    <td align="center"><b>Vite</b></td>
+  </tr>
+  <tr><td colspan="4"></td></tr> 
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="45"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="45"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="45"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="45"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Spring Boot</b></td>
+    <td align="center"><b>.NET</b></td>
+    <td align="center"><b>TypeScript</b></td>
+    <td align="center"><b>Python</b></td>
   </tr>
 </table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0011&height=80&section=footer"/>
 <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
